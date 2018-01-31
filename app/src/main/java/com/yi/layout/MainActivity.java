@@ -23,6 +23,9 @@ public class MainActivity extends AppCompatActivity {
         mBtnEditText = findViewById(R.id.btn_edittext);
         mBtnRadioButton = findViewById(R.id.btn_radiobutton);
         System.out.print(1);
+
+
+
         setListeners();
     }
 
