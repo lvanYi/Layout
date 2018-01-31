@@ -22,10 +22,7 @@ public class MainActivity extends AppCompatActivity {
         mBtnButton = findViewById(R.id.btn_button);
         mBtnEditText = findViewById(R.id.btn_edittext);
         mBtnRadioButton = findViewById(R.id.btn_radiobutton);
-        System.out.print(1);
-
-
-
+        System.out
         setListeners();
     }
 
